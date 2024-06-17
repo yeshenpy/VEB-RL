@@ -1,0 +1,5 @@
+nohup python -u run_GA_VEB.py --env=breakout --frac=0.1 --rl_to_ea_synch_period=1 --seed=1 --gpu-no=-1 --wandb-offline --pop_size=10 --elite_size=0.1 --EA_target_update_freq=5 > ./logs/2pd1test_half_cpu_time.log 2>&1 &
+nohup python -u run_GA_VEB.py --env=breakout --frac=0.1 --rl_to_ea_synch_period=1 --seed=2 --gpu-no=-1 --wandb-offline --pop_size=10 --elite_size=0.1 --EA_target_update_freq=5 > ./logs/2pd1test_half_cpu_time.log 2>&1 &
+nohup python -u run_GA_VEB.py --env=breakout --frac=0.1 --rl_to_ea_synch_period=1 --seed=3 --gpu-no=-1 --wandb-offline --pop_size=10 --elite_size=0.1 --EA_target_update_freq=5 > ./logs/2pd1test_half_cpu_time.log 2>&1 &
+nohup python -u run_GA_VEB.py --env=breakout --frac=0.1 --rl_to_ea_synch_period=1 --seed=4 --gpu-no=-1 --wandb-offline --pop_size=10 --elite_size=0.1 --EA_target_update_freq=5 > ./logs/2pd1test_half_cpu_time.log 2>&1 &
+nohup python -u run_GA_VEB.py --env=breakout --frac=0.1 --rl_to_ea_synch_period=1 --seed=5 --gpu-no=-1 --wandb-offline --pop_size=10 --elite_size=0.1 --EA_target_update_freq=5 > ./logs/2pd1test_half_cpu_time.log 2>&1 &
