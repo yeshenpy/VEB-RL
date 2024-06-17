@@ -1,8 +1,13 @@
-# :beginner: VEB-RL
+
+<p align="center">
+    <br>
+    <img src="https://github.com/yeshenpy/VEB-RL/assets/43668853/7e66cbfb-6159-4acf-ba5c-d09418124ed2" width="300"/>
+    <br>
+<p>
+
+  
+# :beginner: Value-Evolutionary-Based Reinforcement Learning (VEB-RL)
 (ICML 2024) The official code for VEB-RL from [Value-Evolutionary-Based Reinforcement Learning](https://openreview.net/forum?id=h9LcbJ3l9r) by [Pengyi Li](https://yeshenpy.github.io/).
-
-
-
 
 
 ## :triangular_flag_on_post: Method
