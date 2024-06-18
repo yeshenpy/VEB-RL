@@ -19,7 +19,7 @@
 <span style="color: red;"> </span>
 
 > [!TIP]
-> 🔥 🔥 🔥 If you are interested in ERL for policy search or other hybrid algorithms combining EA and RL, we **strongly recommend** reading our survey paper: [Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms](https://arxiv.org/abs/2401.11963). It provides a comprehensive and accessible overview of research directions and classifications suitable for researchers with various backgrounds.
+> 🔥 🔥 🔥 If you are interested in ERL for policy search or other hybrid algorithms combining EA and RL, we **strongly recommend** reading our survey paper: **[Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms](https://arxiv.org/abs/2401.11963)**. It provides a comprehensive and accessible overview of research directions and classifications suitable for researchers with various backgrounds.
 
 
 ## 🙏 Citation
