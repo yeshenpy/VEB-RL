@@ -7,7 +7,7 @@
 
   
 # :beginner: Value-Evolutionary-Based Reinforcement Learning (VEB-RL)
-(ICML 2024) The official code for VEB-RL from [Value-Evolutionary-Based Reinforcement Learning](https://openreview.net/forum?id=h9LcbJ3l9r) by [Pengyi Li](https://yeshenpy.github.io/).
+(ICML 2024) The official code for VEB-RL from [Value-Evolutionary-Based Reinforcement Learning](https://openreview.net/forum?id=XobPpcN4yZ)) by [Pengyi Li](https://yeshenpy.github.io/).
 
 
 ## :triangular_flag_on_post: Method
